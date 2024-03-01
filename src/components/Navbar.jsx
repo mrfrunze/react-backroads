@@ -43,11 +43,6 @@ const Navbar = () => {
             }
           </ul>
         </div>
-        {/* <PageLinks
-            paretnClass="nav-links"
-            itemClass="nav-link"
-            showLinks={showLinks}
-          /> */}
         <SocialLinks
           paretnClass="nav-icons"
           itemClass="nav-icon"
